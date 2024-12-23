@@ -128,7 +128,7 @@
     <blockquote>
         "This course was a game-changer for my business. It gave me the tools and confidence to grow my tree service into a successful business!"  
     </blockquote>
-    <cite>- John D., Tree Service Owner</cite>
+    <cite>- Tommy S., Tree Service Owner</cite>
 </div>
 
 <footer>
